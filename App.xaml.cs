@@ -1,7 +1,14 @@
+using System.Configuration;
+using System.Data;
 using System.Windows;
 
-namespace Tetris;
-
-public partial class App : Application
+namespace Tetris
 {
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App : Application
+    {
+    }
+
 }
